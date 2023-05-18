@@ -5,9 +5,7 @@ FAQs
     
     1. [How to add new environment to deploy zookeeper deployed](#AddNewEnv)
 
-    2. [How to add new region to deploy zookeeper deployed](#AddNewRegion)
-
-    3. [How can I expand my zookeeper cluster by adding more nodes to existing cluster](#ExpandCluster)
+    2. [How can I expand my zookeeper cluster by adding more nodes to existing cluster](#ExpandCluster)
 
 
 ## FAQ ##

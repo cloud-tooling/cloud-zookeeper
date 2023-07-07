@@ -1,13 +1,6 @@
 # cloud-zookeeper
 cloud resources for ZooKeeper
 
-FAQs    
-    
-    1. [How to add new environment to deploy zookeeper deployed](#AddNewEnv)
-
-    2. [How can I expand my zookeeper cluster by adding more nodes to existing cluster](#ExpandCluster)
-
-
 ## FAQ ##
 
 ## 1. How to add new Node/service to be deployed <a name="AddNewEnv"></a>
